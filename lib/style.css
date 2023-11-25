@@ -27,7 +27,6 @@ td:nth-of-type(3n) {
    border-right: 5px solid black ;
    border-right-color:#291303;
    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
-;
    margin:0px;
 }
 tr:nth-of-type(3n) td {
