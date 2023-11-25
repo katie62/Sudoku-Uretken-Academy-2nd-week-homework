@@ -1,0 +1,61 @@
+table{
+  border:5px solid black;
+  border-collapse:collapse;
+  border-color: #291303 ;
+  background-image: url(https://img.freepik.com/free-photo/wooden-floor-background_53876-88628.jpg?size=626&ext=jpg&ga=GA1.1.2116175301.1700784000&semt=ais)  ;
+  margin: auto;
+  box-shadow: 10px 10px 10px #291303;
+  
+  
+}
+td{
+  width: 50px;
+  height:50px;
+  border:1px solid black;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+  text-align: center;
+  text-shadow:2px 2px 4px #291303 ;
+  font-size: 125%;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif ;
+  
+  
+
+}
+
+td:nth-of-type(3n) {
+   border-right: 5px solid black ;
+   border-right-color:#291303;
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+;
+   margin:0px;
+}
+tr:nth-of-type(3n) td {
+   border-bottom: 5px solid black ;
+   border-bottom-color:#291303 ;
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+   margin:0px;
+}
+
+h1{
+  text-align: center;
+  font-size: 50px;
+  font-family:Courier, monospace  ;
+  text-shadow: 2px 2px 4px #291303 ;
+
+}
+
+body{
+  background-image: url(https://w0.peakpx.com/wallpaper/965/259/HD-wallpaper-old-paper-texture-paper-backgrounds-paper-textures-old-paper-brown-paper-background-paper-design-retro-paper-background.jpg);
+  
+  background-size: contain;
+  background-repeat: repeat;
+
+}
+
+
+
+   
+
+
+
